@@ -3,3 +3,5 @@ Add Bender to your Rails app!
 script/plugin install git@github.com:timrosenblatt/XBender.git
 
 Adds an X-Bender header to all requests, like Slashdot does (unless they're adding X-Fry).
+
+Obviously of no practical use, but a good demo of modifying the headers in a Rails app via Rack.
