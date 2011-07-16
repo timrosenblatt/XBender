@@ -42,7 +42,8 @@ class XBender
       "I was thinking Benderbrau if it's an ale, Botweiser if it's a lager.",
       "Ahhh, what an awful dream. Ones and zeroes everywhere... and I thought I saw a two.",
       "What do you mean 'we,' flesh-tube?",
-      "I guess a robot would have to be crazy to wanna' be a folk-singer..."
+      "I guess a robot would have to be crazy to wanna' be a folk-singer...",
+      "Shut up and drag me to work."
     ]
                             
     quotes[rand(quotes.size)]
